@@ -1,12 +1,12 @@
 package main
 
 import (
-	"log"
-	"fmt"
-	"mime"
-	"io/ioutil"
-	"net/http"
 	"encoding/base64"
+	"fmt"
+	"io/ioutil"
+	"log"
+	"mime"
+	"net/http"
 	"path"
 )
 
